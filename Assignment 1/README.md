@@ -23,7 +23,7 @@ Python
 
 <h2>Detailed Report</h2>
 Click on the image below to open the report.
-
+<p align="left">
 <a href="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/MIS710A1_Afroz_Tahsin_223137186_MIS710A1.pdf">
     <img src="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/Supporting%20Documents/Screenshot%202025-02-28%20at%2023.38.33.png" width="500">
 </a>
