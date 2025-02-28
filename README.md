@@ -24,7 +24,7 @@ Python
 <h2>Detailed Report</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/tahsinafroz/MachineLearning/blob/main/Screenshot%202025-02-28%20at%2023.38.33.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
