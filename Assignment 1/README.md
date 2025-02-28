@@ -23,7 +23,11 @@ Python
 
 <h2>Detailed Report</h2>
 
-[![Project Screenshot](https://raw.githubusercontent.com/tahsinafroz/MachineLearning/main/Screenshot%202025-02-28%20at%2023.38.33.png)](https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/MIS710A1_Afroz_Tahsin_223137186_MIS710A1.docx)
+
+<a href="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/MIS710A1_Afroz_Tahsin_223137186_MIS710A1.docx">
+    <img src="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/Screenshot%202025-02-28%20at%2023.38.33.png" width="600">
+</a>
+
 
 <p align="center">
 img src="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/Screenshot%202025-02-28%20at%2023.38.33.png" />
