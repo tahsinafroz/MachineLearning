@@ -25,5 +25,5 @@ Python
 Click on the image below to open the report.
 
 <a href="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/MIS710A1_Afroz_Tahsin_223137186_MIS710A1.pdf">
-    <img src="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/Screenshot%202025-02-28%20at%2023.38.33.png" width="600">
+    <img src="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/Supporting%20Documents/Screenshot%202025-02-28%20at%2023.38.33.png" width="500">
 </a>
