@@ -24,45 +24,6 @@ Python
 <h2>Detailed Report</h2>
 
 
-<a href="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/MIS710A1_Afroz_Tahsin_223137186_MIS710A1.docx">
+<a href="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/MIS710A1_Afroz_Tahsin_223137186_MIS710A1.pdf">
     <img src="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/Screenshot%202025-02-28%20at%2023.38.33.png" width="600">
 </a>
-
-
-<p align="center">
-img src="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/Screenshot%202025-02-28%20at%2023.38.33.png" />
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
