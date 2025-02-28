@@ -22,6 +22,8 @@ Python
 *ROC Curve*: Showed high predictive power in blackspot identification.<br />
 
 <h2>Detailed Report</h2>
+[![Project Screenshot](https://github.com/tahsinafroz/MachineLearning/blob/main/Screenshot%202025-02-28%20at%2023.38.33.png)](https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/MIS710A1_Afroz_Tahsin_223137186_MIS710A1.docx)
+
 
 <p align="center">
 <img src="https://github.com/tahsinafroz/MachineLearning/blob/main/Screenshot%202025-02-28%20at%2023.38.33.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
