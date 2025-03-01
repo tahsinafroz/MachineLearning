@@ -21,7 +21,7 @@ Python
 *F1-score*: 95% (non-blackspots), 46% (blackspots)<br />
 *ROC Curve*: Showed high predictive power in blackspot identification.<br />
 <h3>Technical Analysis</h3>
-<a href="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/MIS710A1_Afroz_Tahsin_223137186_MIS710A1.pdf">
+<a href="https://github.com/tahsinafroz/MachineLearning/blob/main/Assignment%201/Afroz_Tahsin_223137186_MIS710_A1_T2_2023.ipynb">
     <b>.ipynb file</b>
 </a>
 <h3>Detailed Report</h3>
